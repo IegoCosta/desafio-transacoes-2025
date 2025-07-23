@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "N9KcTLVhRJzi7kpyzcTPwKTL9r/BBSCrN4SvU/A7xeo=",
+  "Source": "TransacoesService",
+  "BasePath": "_content/TransacoesService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TransacoesService\\wwwroot",
+      "Source": "TransacoesService",
+      "ContentRoot": "C:\\Users\\iegoe\\TransacoesService\\wwwroot\\",
+      "BasePath": "_content/TransacoesService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\iegoe\\TransacoesService\\wwwroot\\swagger-ui\\custom.css",
+      "SourceId": "TransacoesService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\iegoe\\TransacoesService\\wwwroot\\",
+      "BasePath": "_content/TransacoesService",
+      "RelativePath": "swagger-ui/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-ui\\custom.css"
+    }
+  ]
+}

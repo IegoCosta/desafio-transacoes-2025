@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\iegoe\\TransacoesService\\wwwroot\\swagger-ui\\custom.css",
+      "PackagePath": "staticwebassets\\swagger-ui\\custom.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TransacoesService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TransacoesService.props",
+      "PackagePath": "build\\TransacoesService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TransacoesService.props",
+      "PackagePath": "buildMultiTargeting\\TransacoesService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TransacoesService.props",
+      "PackagePath": "buildTransitive\\TransacoesService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

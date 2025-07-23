@@ -1,0 +1,14 @@
+
+.swagger-ui .topbar {
+    background-color: #220000 !important; /* fundo preto avermelhado */
+}
+
+.swagger-ui .topbar a span {
+    color: #ff4444 !important; /* texto vermelho */
+}
+
+.swagger-ui .opblock-summary-method {
+    background-color: #007700 !important; /* verde escuro para métodos */
+}
+
+/* Outras customizações que desejar */
