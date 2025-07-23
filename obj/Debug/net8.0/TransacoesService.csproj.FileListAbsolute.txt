@@ -32,3 +32,10 @@ C:\Users\iegoe\TransacoesService\obj\Debug\net8.0\refint\TransacoesService.dll
 C:\Users\iegoe\TransacoesService\obj\Debug\net8.0\TransacoesService.pdb
 C:\Users\iegoe\TransacoesService\obj\Debug\net8.0\TransacoesService.genruntimeconfig.cache
 C:\Users\iegoe\TransacoesService\obj\Debug\net8.0\ref\TransacoesService.dll
+C:\Users\iegoe\TransacoesService\obj\Debug\net8.0\TransacoesService.sourcelink.json
+C:\Users\iegoe\TransacoesService\bin\Debug\net8.0\DnsClient.dll
+C:\Users\iegoe\TransacoesService\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\iegoe\TransacoesService\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\iegoe\TransacoesService\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\iegoe\TransacoesService\bin\Debug\net8.0\Snappier.dll
+C:\Users\iegoe\TransacoesService\bin\Debug\net8.0\ZstdSharp.dll
